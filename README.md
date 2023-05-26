@@ -1,7 +1,7 @@
 # Stock Market Prediction
-Repositório: [https://github.com/wewerthonc/churn-analysis](https://github.com/wewerthonc/stock_prediction_gans/)
+Repositório: https://github.com/wewerthonc/stock_prediction_gans/
 
-Original: [https://colab.research.google.com/drive/1HMHLvDkqChgJUFPj-5Iw7-vpHcfca8ud.](https://colab.research.google.com/drive/1SkEncPlPbNCa5KVkbpKjQkKuGwp3Xqym#scrollTo=gm62YZ6-LSaX)
+Original: https://colab.research.google.com/drive/1SkEncPlPbNCa5KVkbpKjQkKuGwp3Xqym#scrollTo=gm62YZ6-LSaX
 - Google colab notebook: **stock_market_prediction.ipynb**
 - Dataset: data\dados_petroleo_2021.csv
 - Prediction: data\predictions.csv
